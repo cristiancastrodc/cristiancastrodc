@@ -2,7 +2,7 @@
 
 I'm a Fullstack Software Developer!
 
-[https://www.linkedin.com/in/cristian-castro-del-carpio/](Link)
+[My LinkedIn](https://www.linkedin.com/in/cristian-castro-del-carpio/)
 
 <!---
 - 👀 I’m interested in ...
