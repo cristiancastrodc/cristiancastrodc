@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @cristiancastrodc
+👋 Hi, I’m @cristiancastrodc
+
+I'm a Fullstack Software Developer!
+
+[https://www.linkedin.com/in/cristian-castro-del-carpio/](My LinkedIn)
+
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
